@@ -6,3 +6,7 @@ api:
 commands:
   discord:
     description: "Hey World"
+    permission: discord.talk
+permissions:
+  discord.talk:
+    default: op
