@@ -1,0 +1,8 @@
+name: Discord2MCPE
+version: 1.0.0
+main: RTG\Discord2MCPE\Loader
+api:
+  - 3.0.0-ALPHA7
+commands:
+  discord:
+    description: "Hey World"
